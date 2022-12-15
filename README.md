@@ -2,6 +2,7 @@
 This is a collection of my projects completed for my certification in AI/ML from UT-Austin.
 
 Fundamentals:
+
     Course 1: Fundamentals of AI
     Project 1: CardioGoodFitness
     Topics Covered:
@@ -10,6 +11,7 @@ Fundamentals:
         Data Visualization and EDA
         
 Machine Learning Courses:
+
     Course 2: Regression
     Project 2: Cars4U
     Topics Covered:
@@ -45,6 +47,7 @@ Machine Learning Courses:
         PCA
 
 Deep Learning Courses:
+
     Course 7: Introduction to Neural Networks
     Project 7: Bank_Churn_Prediction
     Topics Covered:
